@@ -13,9 +13,7 @@ class App extends Component {
     currentAuthor: null,
     authors: authors,
     FilteredAuthors: 
-  };
-  filterAuthors = query => {
-    let
+  filterAuthors : query => {
   };
 
 
