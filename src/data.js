@@ -119,7 +119,7 @@ const authors = [
     first_name: "Naguib",
     last_name: "Mahfouz",
     imageUrl:
-      "http://speakingtigerbooks.com/wp-content/uploads/2016/06/naguib-mahfouz-5.jpg",
+      "https://speakingtigerbooks.com/wp-content/uploads/2016/06/naguib-mahfouz-5.jpg",
     books: [
       {
         title: "Palace Walk",
@@ -143,7 +143,7 @@ const authors = [
     first_name: "Agatha",
     last_name: "Christie",
     imageUrl:
-      "http://images.archant.co.uk/polopoly_fs/1.4811429.1481285995!/image/image.jpg_gen/derivatives/landscape_630/image.jpg",
+      "https://images.archant.co.uk/polopoly_fs/1.4811429.1481285995!/image/image.jpg_gen/derivatives/landscape_630/image.jpg",
     books: [
       {
         title: "Murder on the Orient Express",
